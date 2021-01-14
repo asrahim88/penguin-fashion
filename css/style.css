@@ -1,0 +1,154 @@
+              
+      /* Header Section */
+
+header {
+    background-color: #FFFBF0;
+    padding-bottom: 80px;
+    padding-top: 10px;
+}
+#top-header{
+    background-color:  transparent !important;
+}
+.logo img {
+    width: 250px;
+
+}
+.menu-color a{
+    color: #3C3C3C !important;
+}
+.font-family{
+    font-family: 'Bebas Neue', cursive;
+}
+#header-heading{
+    font-size: 70px;
+}
+.color-highlight{
+    color: #363958;
+}
+.all-button{
+    background-color: #A4BC46;
+    width: 170px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+       /* Main Part */ 
+
+main{
+    background-color: #f7f4f4;
+}
+
+
+    /* Jacket  or Main Top*/
+
+.woman-section{
+    width: 100%;
+    padding-bottom: 30px;
+    padding-top: 80px;
+}
+.image-box{
+    height: 360px;
+}
+.image{
+    width: 330px;
+    background-color: #F1F1F1;
+    padding: 20px;
+    height: 340px;
+    border-radius: 8px;
+    
+}
+.box-shadow{
+    box-shadow: 2px 2px 10px 0px gray;
+    border-radius: 5px;
+}
+.jacket-button{
+    background-color: #A4BC46;
+    width: 120px;
+    height: 40px;
+    border-radius: 5px;
+}
+.jacket-footer{
+    background-color: transparent;
+}
+
+   
+    /* For Mobile version */
+
+@media (max-width: 576px)  { 
+    .jacket-box{
+        margin-bottom: 20px;
+
+    }
+   
+    
+    .icon-description-box{
+        text-align: center;
+        margin-top: 35px;
+        margin-bottom: 20px;
+    }
+    .main-bottom-icon-section{
+        width: 100%;
+        margin: auto;
+    }
+    .shopping{
+        margin-top: 30px;
+    }
+    
+}
+
+
+    /* Main Bottom */
+.main-bottom{
+    margin-top: 30px;
+    padding-bottom: 20px;
+}
+.main-bottom-icon-section{
+    background-color: #FFFFFF;
+    box-shadow: 2px 2px 5px #e7e7e7;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.icon-box{
+    height: 80px;
+    width: 80px;
+    padding-top: -50px;
+    position: relative;
+       left: 40%;
+}
+.shopping{
+    padding-left: 80px;
+}
+footer{
+    background-color: #c9dbe7;
+    overflow: hidden;
+}
+.footer-top{
+    text-align:center;
+}
+.footer-description{
+    
+    margin-top: 50px;
+    padding: 50px;
+    border-radius: 20px;
+}
+
+
+      /* Footer Button */
+
+.footer-button{
+    background-color: #363958;
+    width: 300px;
+    height: 50px;
+
+}
+.copyright{
+    font-size: 14px;
+    margin-top: 20px;
+}      
+
